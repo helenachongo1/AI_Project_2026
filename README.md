@@ -81,13 +81,13 @@ Hybrid model improved robustness
 ## Screenshots
 
 ### 🔹 Model Performance
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](images/r2_comparison.png)
 
 ### 🔹 Actual vs Predicted
-![Prediction](images/prediction.png)
+![Prediction](images/actual_vs_pred.png)
 
 ### 🔹 Residual Plot
-![Residual](images/residual.png)
+![Residual](images/residuals.png)
 
 ---
 
