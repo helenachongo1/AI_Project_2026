@@ -81,7 +81,7 @@ Hybrid model improved robustness
 ## Screenshots
 
 ### 🔹 Model Performance
-![Model Comparison](images/r2_comparison.png)
+![Model Comparison](images/ensemble_vs_gbrt.png)
 
 ### 🔹 Actual vs Predicted
 ![Prediction](images/actual_vs_pred.png)
